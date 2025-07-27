@@ -1,0 +1,8 @@
+(most likely to choose) Google Books API https://developers.google.com/books/docs/v1/using - used to create a list of recommendations when a user enters a book title and want something similar. 
+The list will be formulated based on author, publication year, genre, and age rating. Use location to connect readers reading similar/the same books.
+
+Build an app that allows users to post pictures of found/lost animals and shows users the posts within a certain range of location  (sort of like a dating app). 
+Fit with messaging to allow users to reach out to each other.
+
+Build an app for college students that can group/pair users for carpooling for their trips home based on location of where they are and where they need to go. 
+There can be users who are offering to use their car but might not want to cover gas and that’s where the other person comes in. I could use it to allow people to limit who they are paired with base on age, gender, etc. 

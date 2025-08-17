@@ -1,0 +1,50 @@
+Project Proposal: Book Tracker and Recommendation App
+
+Google Books API https://developers.google.com/books/docs/v1/using - used to create a list of recommendations when a user enters a book title and want something similar. 
+The list will be formulated based on author, publication year, genre, and age rating. Use location to connect readers reading similar/the same books.
+
+Set up
+
+Stack Focus: 
+It will be an evenly focused full-stack application
+
+Type:
+A mobile app using React for cross-platform mobile application that runs on iOS and Android using a single codebase
+
+Goal:
+Create an app that allows users to set a profile where they can track what books they are reading and their rating of it, but is also used as a database to provide 
+recommendations for users depending on a title they enter and want similar books. It can also be used to connect readers reading similar books in the same county/city
+and will have a direct messaging system. 
+
+Users:
+Book enthusiasts 
+
+Data: 
+The google books api will be used for collecting data to provide recommendations for books but the other data collected and used will be based on user input from their profiles.
+
+Project Approach
+1. Database Schema:
+I will be using a relational database schema to establish relationships between books for recommendation and to connect users based on similar reading interests.
+
+2. Source Your Data:
+Google Books API https://developers.google.com/books/docs/v1/using 
+Internet archive API https://openlibrary.org/dev/docs/api/books
+
+3. User Flow:
+ Homepage: Displays user’s personal digital bookshelf/tracker for books read and their ratings
+ Navigation: Page options to go to a search page that allows you to type in a book title that the user wants similar recommendations for (medium difficulty) and another page 
+option that leads to a feed (similar to instagram/dating apps) that using users input location to connect readers near each other that share interest in the same books (medium-hard difficulty: 
+it doesn’t sound that complex but it will be my first time doing it so there will be a learning curve). There will also be a page for messaging between users who want to connect (stretch goal).
+
+4. Set up backend and database:
+Not sure yet based on where I am in the course, but I’m assuming it’s going to be with Node and/or Express as well as an SQL database
+
+5. Set up frontend:
+Set up a React client app
+
+6. User Authentication: 
+User will be able to login and signup for a profile on the front end with an email/username and password as well as providing additional information such as city/county location if they choose 
+to be able to connect with other readers. For the user to be successful in logging in they will be authenticated. They will also have the ability to add a user profile picture if they wish.
+
+7. Stretch Goals:
+Messaging functionality between users

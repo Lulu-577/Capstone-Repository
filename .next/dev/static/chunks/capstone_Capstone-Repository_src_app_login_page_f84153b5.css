@@ -1,0 +1,57 @@
+/* [project]/capstone/Capstone-Repository/src/app/login/page.css [app-client] (css) */
+.header {
+  text-align: center;
+  border-top: 30rem;
+  font-size: 3rem;
+}
+
+.div {
+  text-align: center;
+  color: #fff;
+  background-color: #000;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  display: block;
+}
+
+.login_email {
+  margin-top: 12px;
+}
+
+.email_label {
+  margin-top: 20px;
+  display: block;
+}
+
+.login_password {
+  margin-top: 12px;
+}
+
+.password_label {
+  justify-content: center;
+  margin-top: 20px;
+  display: block;
+}
+
+.login_button {
+  margin-top: 20px;
+  margin-left: 49vw;
+  margin-right: 48vw;
+  display: block;
+}
+
+.login_button:hover {
+  background-color: #90ee90;
+}
+
+.link {
+  margin-top: 20px;
+  display: block;
+}
+
+.link:hover {
+  color: #afeeee;
+}
+
+/*# sourceMappingURL=capstone_Capstone-Repository_src_app_login_page_f84153b5.css.map*/

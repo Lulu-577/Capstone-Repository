@@ -1,0 +1,53 @@
+.header{ 
+font-size: 3rem;
+text-align: center;
+border-top: 30rem;
+
+}
+.div{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+    flex-wrap: wrap;
+    
+    
+}
+
+
+.login_email{
+    margin-top: 12px;
+}
+
+
+.email_label{
+   display:block;
+   margin-top: 20px;
+} 
+
+.login_password {
+    margin-top: 12px;
+}
+.password_label {
+    display:block;
+    margin-top: 20px;
+    justify-content: center;
+}
+.login_button{
+    display:block;
+    margin-left: 49vw;
+    margin-right: 48vw;
+    margin-top: 20px;
+}
+ .login_button:hover{
+background-color: lightgreen
+ }
+.link{
+    display: block;
+    margin-top: 20px;
+}
+.link:hover{
+    color: paleturquoise
+}

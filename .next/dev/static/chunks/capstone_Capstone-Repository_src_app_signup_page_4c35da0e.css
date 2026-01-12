@@ -1,0 +1,66 @@
+/* [project]/capstone/Capstone-Repository/src/app/signup/page.css [app-client] (css) */
+.header {
+  text-align: center;
+  border-top: 30rem;
+  font-size: 3rem;
+}
+
+.div {
+  text-align: center;
+  color: #fff;
+  background-color: #a9a9a9;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  display: block;
+}
+
+.signup_username {
+  margin-top: 12px;
+}
+
+.username_label {
+  margin-top: 20px;
+  font-weight: bold;
+  display: block;
+}
+
+.signup_email {
+  margin-top: 12px;
+}
+
+.email_label {
+  margin-top: 20px;
+  font-weight: bold;
+  display: block;
+}
+
+.signup_password {
+  margin-top: 12px;
+}
+
+.password_label {
+  justify-content: center;
+  margin-top: 20px;
+  font-weight: bold;
+  display: block;
+}
+
+.signup_button {
+  margin-top: 20px;
+  margin-left: 48vw;
+  margin-right: 47vw;
+  display: block;
+}
+
+.signup_button:hover {
+  background-color: #90ee90;
+}
+
+.link {
+  margin-top: 20px;
+  text-decoration: underline;
+  display: block;
+}
+
+/*# sourceMappingURL=capstone_Capstone-Repository_src_app_signup_page_4c35da0e.css.map*/

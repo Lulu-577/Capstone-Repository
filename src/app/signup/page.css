@@ -1,0 +1,63 @@
+.header{ 
+font-size: 3rem;
+text-align: center;
+border-top: 30rem;
+
+}
+.div{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: darkgrey;
+    color: white;
+    flex-wrap: wrap;
+    
+    
+}
+
+.signup_username{
+    margin-top: 12px;
+}
+
+
+.username_label{
+   display:block;
+   margin-top: 20px;
+   font-weight: bold;
+}  
+.signup_email{
+    margin-top: 12px;
+}
+
+
+.email_label{
+   display:block;
+   margin-top: 20px;
+   font-weight: bold;
+} 
+
+.signup_password {
+    margin-top: 12px;
+}
+.password_label {
+    display:block;
+    margin-top: 20px;
+    justify-content: center;
+    font-weight: bold;
+}
+.signup_button{
+    display:block;
+    margin-left: 48vw;
+    margin-right: 47vw;
+    margin-top: 20px;
+
+}
+ .signup_button:hover{
+background-color: lightgreen
+ }
+.link{
+    display: block;
+    margin-top: 20px;
+    text-decoration: underline;
+}

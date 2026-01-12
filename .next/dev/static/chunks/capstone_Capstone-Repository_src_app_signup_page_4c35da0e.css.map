@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///home/looper/capstone/Capstone-Repository/src/app/signup/page.css"],"sourcesContent":[".header{ \nfont-size: 3rem;\ntext-align: center;\nborder-top: 30rem;\n\n}\n.div{\n    display: block;\n    justify-content: center;\n    align-items: center;\n    text-align: center;\n    background-color: darkgrey;\n    color: white;\n    flex-wrap: wrap;\n    \n    \n}\n\n.signup_username{\n    margin-top: 12px;\n}\n\n\n.username_label{\n   display:block;\n   margin-top: 20px;\n   font-weight: bold;\n}  \n.signup_email{\n    margin-top: 12px;\n}\n\n\n.email_label{\n   display:block;\n   margin-top: 20px;\n   font-weight: bold;\n} \n\n.signup_password {\n    margin-top: 12px;\n}\n.password_label {\n    display:block;\n    margin-top: 20px;\n    justify-content: center;\n    font-weight: bold;\n}\n.signup_button{\n    display:block;\n    margin-left: 48vw;\n    margin-right: 47vw;\n    margin-top: 20px;\n\n}\n .signup_button:hover{\nbackground-color: lightgreen\n }\n.link{\n    display: block;\n    margin-top: 20px;\n    text-decoration: underline;\n}"],"names":[],"mappings":"AAAA;;;;;;AAMA;;;;;;;;;;AAYA;;;;AAKA;;;;;;AAKA;;;;AAKA;;;;;;AAMA;;;;AAGA;;;;;;;AAMA;;;;;;;AAOC;;;;AAGD"}}]
+}

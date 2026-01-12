@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///home/looper/capstone/Capstone-Repository/src/app/login/page.tsx"],"sourcesContent":["export default function LoginPage() {\n    return (\n        <div className = \"header_div\"> \n            <h1 className = \"header\"> Login </h1>\n        </div>\n\n    )\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACI,oRAAC;QAAI,WAAY;kBACb,cAAA,oRAAC;YAAG,WAAY;sBAAS;;;;;;;;;;;AAIrC"}}]
+}

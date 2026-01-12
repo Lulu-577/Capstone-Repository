@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///home/looper/capstone/Capstone-Repository/src/app/profile/%5Bid%5D/page.tsx"],"sourcesContent":["\n\nexport default async function UserProfile({params}: any) {\n    const {id} = await params;\n    return(\n        <div className=\"user_profile_div\">\n            <h1>Profile</h1>\n            <hr/>\n            <p > Profile Page:  \n                <span>{id}</span></p>\n        </div>\n    )\n}"],"names":[],"mappings":";;;;;;AAEe,eAAe,YAAY,EAAC,MAAM,EAAM;IACnD,MAAM,EAAC,EAAE,EAAC,GAAG,MAAM;IACnB,qBACI,oRAAC;QAAI,WAAU;;0BACX,oRAAC;0BAAG;;;;;;0BACJ,oRAAC;;;;;0BACD,oRAAC;;oBAAG;kCACA,oRAAC;kCAAM;;;;;;;;;;;;;;;;;;AAGvB"}}]
+}

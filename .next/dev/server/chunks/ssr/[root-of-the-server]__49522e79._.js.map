@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///home/looper/capstone/Capstone-Repository/src/app/profile/page.tsx"],"sourcesContent":["export default function ProfilePage() {\n    return(\n        <div className=\"profile_page_div\">\n            <h1>Profile</h1>\n            <hr/>\n            <p> Profile Page</p>\n        </div>\n    )\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACI,oRAAC;QAAI,WAAU;;0BACX,oRAAC;0BAAG;;;;;;0BACJ,oRAAC;;;;;0BACD,oRAAC;0BAAE;;;;;;;;;;;;AAGf"}}]
+}
